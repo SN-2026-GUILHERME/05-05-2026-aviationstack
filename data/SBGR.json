@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T18:57:34.223575+00:00",
+  "updated_at": "2026-05-06T19:05:18.285055+00:00",
   "airport_icao": "SBGR",
   "airport_name": "Sao Paulo / Guarulhos",
   "source": "AviationStack",
@@ -658,7 +658,7 @@
       "airport": "SBGO",
       "airport_name": "Goiania",
       "scheduled": "2026-05-06T16:20:00+00:00",
-      "time_iso": "2026-05-06T16:20:00+00:00",
+      "time_iso": "2026-05-06T16:41:00+00:00",
       "status": "em voo"
     },
     {
@@ -667,7 +667,7 @@
       "airport": "SBGO",
       "airport_name": "Goiania",
       "scheduled": "2026-05-06T16:20:00+00:00",
-      "time_iso": "2026-05-06T16:20:00+00:00",
+      "time_iso": "2026-05-06T16:41:00+00:00",
       "status": "em voo"
     },
     {
@@ -676,7 +676,7 @@
       "airport": "SBGO",
       "airport_name": "Goiania",
       "scheduled": "2026-05-06T16:20:00+00:00",
-      "time_iso": "2026-05-06T16:20:00+00:00",
+      "time_iso": "2026-05-06T16:41:00+00:00",
       "status": "em voo"
     },
     {
@@ -685,7 +685,7 @@
       "airport": "SBGO",
       "airport_name": "Goiania",
       "scheduled": "2026-05-06T16:20:00+00:00",
-      "time_iso": "2026-05-06T16:20:00+00:00",
+      "time_iso": "2026-05-06T16:41:00+00:00",
       "status": "em voo"
     },
     {
@@ -694,7 +694,7 @@
       "airport": "SBGO",
       "airport_name": "Goiania",
       "scheduled": "2026-05-06T16:20:00+00:00",
-      "time_iso": "2026-05-06T16:20:00+00:00",
+      "time_iso": "2026-05-06T16:41:00+00:00",
       "status": "em voo"
     },
     {
@@ -703,7 +703,7 @@
       "airport": "SBGO",
       "airport_name": "Goiania",
       "scheduled": "2026-05-06T16:20:00+00:00",
-      "time_iso": "2026-05-06T16:20:00+00:00",
+      "time_iso": "2026-05-06T16:41:00+00:00",
       "status": "em voo"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T18:57:36.916893+00:00",
+  "updated_at": "2026-05-06T19:05:21.200042+00:00",
   "airport_icao": "SBCT",
   "airport_name": "Curitiba",
   "source": "AviationStack",
@@ -19,7 +19,7 @@
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-05-06T15:30:00+00:00",
-      "time_iso": "2026-05-06T15:23:00+00:00",
+      "time_iso": "2026-05-06T15:30:00+00:00",
       "status": "actual"
     },
     {
@@ -46,7 +46,7 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-06T15:20:00+00:00",
-      "time_iso": "2026-05-06T15:08:00+00:00",
+      "time_iso": "2026-05-06T15:20:00+00:00",
       "status": "em voo"
     },
     {
@@ -82,7 +82,7 @@
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
       "scheduled": "2026-05-06T15:35:00+00:00",
-      "time_iso": "2026-05-06T15:23:00+00:00",
+      "time_iso": "2026-05-06T15:35:00+00:00",
       "status": "em voo"
     },
     {
@@ -190,8 +190,8 @@
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-05-06T14:25:00+00:00",
-      "time_iso": "2026-05-06T14:13:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-06T14:01:00+00:00",
+      "status": "actual"
     },
     {
       "callsign": "AD2804",
@@ -235,8 +235,8 @@
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-05-06T13:10:00+00:00",
-      "time_iso": "2026-05-06T14:43:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-06T14:40:00+00:00",
+      "status": "actual"
     },
     {
       "callsign": "LA3288",
@@ -487,8 +487,8 @@
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-05-06T09:45:00+00:00",
-      "time_iso": "2026-05-06T09:40:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-06T09:36:00+00:00",
+      "status": "actual"
     },
     {
       "callsign": "LA3060",
@@ -1444,7 +1444,7 @@
       "airport_name": "SEQM",
       "scheduled": "2026-05-06T09:44:00+00:00",
       "time_iso": "2026-05-06T09:44:00+00:00",
-      "status": "programado"
+      "status": "actual"
     },
     {
       "callsign": "LA3285",
@@ -1624,7 +1624,7 @@
       "airport_name": "SEQM",
       "scheduled": "2026-05-06T08:40:00+00:00",
       "time_iso": "2026-05-06T08:40:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "G31107",
